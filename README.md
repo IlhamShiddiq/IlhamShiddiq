@@ -26,6 +26,8 @@ Hi there, my name is Ilham Shiddiq, 17 y/o. I'm a student at SMKN 1 Cimahi. Inte
 <code><img height="25" src="https://cdn.svgporn.com/logos/materializecss.svg"></code>
 <code><img height="25" src="https://cdn.svgporn.com/logos/firebase.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png"></code>
+<code><img height="25" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
+<code><img height="25" src="https://cdn.svgporn.com/logos/mysql.svg"></code>
 <code><img height="25" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
 
 <p>
