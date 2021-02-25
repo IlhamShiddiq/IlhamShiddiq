@@ -6,7 +6,7 @@ Hi there, my name is Ilham Shiddiq, 17 y/o. I'm a student at SMKN 1 Cimahi. Inte
 
 **What i'm currently working on:**
 - [O'Library Web Application](https://github.com/IlhamShiddiq/O-Library)
-- [LAOD AI Project](https://github.com/IlhamShiddiq/LAOD)
+- [LAOD AI Project](https://github.com/IlhamShiddiq/LAOD-Project)
 
 ### Language and Tools
 
