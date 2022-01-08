@@ -1,12 +1,8 @@
 ### Hi there, My name is Ilham <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-Hi there, my name is Ilham Shiddiq, 17 y/o. I'm a student at SMKN 1 Cimahi. Interest about web developing.
-- 📖 I’m currently learning VueJS, Laravel and Django.
+Hi there, my name is Ilham Shiddiq, 18 y/o. Interest about web developing. I'm a Backend Developer, work at a Company in Bandung, West Java, Indonesia. 
+- 📖 I’m currently learning Laravel and Go Language.
 - 💬 Feel free to ask me about anything and everything!
-- 📫 How to reach me: You may follow me on [LinkedIn](https://www.linkedin.com/in/ilham-shiddiq-63858a1a7/) or  [Instagram](https://www.instagram.com/ilham_shiddiq373/).
-
-**What i'm currently working on:**
-- [O'Library Web Application](https://github.com/IlhamShiddiq/O-Library)
-- [LAOD AI Project](https://github.com/IlhamShiddiq/LAOD-Project)
+- 📫 How to reach me: You may follow me on [LinkedIn](https://www.linkedin.com/in/ilhmshdq) or  [Instagram](https://www.instagram.com/ilham_shiddiq373/).
 
 ### Language and Tools
 
