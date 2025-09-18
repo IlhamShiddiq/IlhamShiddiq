@@ -1,5 +1,5 @@
 ### Hi there, My name is Ilham <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-Hi there, my name is Ilham Shiddiq, 21 y/o. Interest about web developing. I'm a Backend Developer, work at a Company in Bandung, West Java, Indonesia. 
+Hi there, my name is Ilham Shiddiq, 22 y/o. Interest about web developing. I'm a Backend Developer, work at a Company in Bandung, West Java, Indonesia. 
 - 📖 I’m currently learning Java, Javascript, Typescript and Go Language.
 - 💬 Feel free to ask me about anything and everything!
 - 📫 How to reach me: You may follow me on [LinkedIn](https://linkedin.ilhamsh.id/) or  [Instagram](https://www.instagram.com/ilham.shiddiq/).
